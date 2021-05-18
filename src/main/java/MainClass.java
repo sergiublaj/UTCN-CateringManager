@@ -1,5 +1,23 @@
+import businesslogic.Controller;
+import businesslogic.DeliveryService;
+import presentation.MainFrame;
+
+/**
+ * <p>Class that executes the application</p>
+ */
 public class MainClass {
+   /**
+    * <p>Runs the application</p>
+    * @param args void
+    */
+   @SuppressWarnings("unused")
    public static void main(String[] args) {
-      System.out.println("Hello, world!");
+      MainFrame mainFrame = MainFrame.getInstance();
+      Controller mainController = new Controller(mainFrame);
+      DeliveryService.getInstance().loadAll();
+      mainFrame.setVisible(true);
    }
 }
+
+// TODO: 13/05/2021 javadoc
+// TODO: 13/05/2021 documentatie 

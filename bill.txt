@@ -1,0 +1,42 @@
+---- Order no. 01 ----
+Client: mirel [id: 2]
+Products: Moroccan Lamb Kebabs with Golden Couscous , Mama Voula's Spanakopita 
+Total price: 125€
+Date: 18-05-2021 (23:43:08)
+----- THANK YOU! -----
+
+---- Order no. 02 ----
+Client: vadim [id: 4]
+Products: Poached Sockeye Salmon with Mustard Herb Sauce , Cranberry Mustard , Mama Voula's Spanakopita 
+Total price: 180€
+Date: 18-05-2021 (23:45:15)
+----- THANK YOU! -----
+
+---- Order no. 03 ----
+Client: ratiu [id: 5]
+Products: Sweet and Sour Pickles , Mama Voula's Spanakopita 
+Total price: 39€
+Date: 18-05-2021 (23:49:51)
+----- THANK YOU! -----
+
+---- Order no. 04 ----
+Client: vadim [id: 4]
+Products: Honey Walnuts 
+Total price: 80€
+Date: 18-05-2021 (23:51:13)
+----- THANK YOU! -----
+
+---- Order no. 05 ----
+Client: ratiu [id: 5]
+Products: Honey Walnuts 
+Total price: 80€
+Date: 18-05-2021 (23:51:47)
+----- THANK YOU! -----
+
+---- Order no. 06 ----
+Client: vadim [id: 4]
+Products: Berry-Yogurt Smoothie 
+Total price: 17€
+Date: 18-05-2021 (23:55:18)
+----- THANK YOU! -----
+

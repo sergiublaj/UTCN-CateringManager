@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"businesslogic"},{"l":"businesslogic.listeners"},{"l":"businesslogic.listeners.admin.products"},{"l":"businesslogic.listeners.admin.reports"},{"l":"businesslogic.listeners.client"},{"l":"model"},{"l":"presentation"},{"l":"presentation.panels"},{"l":"service"}];updateSearchResults();
